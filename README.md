@@ -28,7 +28,7 @@ This leads us to believing that the rise of quantity of energy production driven
 In fact, as an engineer, my eyes roll directly towards the methods of energy production rather than the fuel powering the production used. I would definitely look into the methods of energy production, the most common in all techniques is the use of the turbines in the production techniques, so my sight would be there as well. But for now, we can't really blame the fuel driving the production entirely.
 We must also look into the method and factors surrounding it.
 
-Cairo's principles are upheld,
+Cairo's principles are upheld, \
   Truthfulness - Extracting data for a specific year gap and not projecting and extending where data isn't available is of key importance here. Also, max-min normalization to compare data is key here as with varied values of data available here it is very easy to deceive general viewers with the units. Also, going in with an open mind was of key importance here as being an engineer and having studied environmental science on a social level alot has driven me to blame certain innocent aspects of industrialization and urbanization. So avoiding self-deception was very key here. 
 
   Beauty - Removing the spines, adding alpha to the production techniques to improve visibility and removing the irrelevant y-axis values as they are normalized and are just being used for comparison. The color coding is also done in a way to improve visibility, with the legend provided conveniently at the upper left.
